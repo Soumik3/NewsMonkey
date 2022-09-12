@@ -1,0 +1,10 @@
+if we add target="_blank" in a tag,then the link will open in a new tab
+there is 12 grids per row,if we do md3 then we can add 4 cols and for md4 we can add 3 col....In this.state.articles if we want to loop through we have to add a unique key in tag.
+WE have used Constructor to set the initial state,
+then by using componentDidMount we will set the state before render.
+Constructor first,then Render will exectued then componentDidMount
+WE have to start a vairble with REACT_APP name to get Aceess
+
+We used hooks to use the classbase features in func base without writing class base component
+like useState is similar to setState
+useEffect is similar to componentDidMount(it will trigger the render method after it)
